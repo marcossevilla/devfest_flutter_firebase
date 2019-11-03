@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "103511833560",
+    "firebase_url": "https://devfest-c315c.firebaseio.com",
+    "project_id": "devfest-c315c",
+    "storage_bucket": "devfest-c315c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103511833560:android:ab2668e23b56c7e00690ad",
+        "android_client_info": {
+          "package_name": "com.marcossevilla.devfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103511833560-rib2is1i38ecsr2j2t8k5p1808pj94lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8vMR2KtFiVxRLXU53_6vRYfMTl95rcLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103511833560-rib2is1i38ecsr2j2t8k5p1808pj94lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
